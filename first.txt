@@ -4,3 +4,4 @@ tの練習だよ
 ・git commit
 gio
 ・git status
+・もうもう
